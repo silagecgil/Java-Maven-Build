@@ -1,0 +1,6 @@
+git clone <repo-url>
+cd <repo-directory>
+git checkout -b yeni-dal-adı
+git add .
+git commit -m "Açıklama"
+git push origin yeni-dal-adı
